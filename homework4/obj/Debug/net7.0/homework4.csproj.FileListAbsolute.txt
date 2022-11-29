@@ -1,0 +1,15 @@
+/Users/elena/Desktop/MyseminarC#/homework/homework4/bin/Debug/net7.0/homework4
+/Users/elena/Desktop/MyseminarC#/homework/homework4/bin/Debug/net7.0/homework4.deps.json
+/Users/elena/Desktop/MyseminarC#/homework/homework4/bin/Debug/net7.0/homework4.runtimeconfig.json
+/Users/elena/Desktop/MyseminarC#/homework/homework4/bin/Debug/net7.0/homework4.dll
+/Users/elena/Desktop/MyseminarC#/homework/homework4/bin/Debug/net7.0/homework4.pdb
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.csproj.AssemblyReference.cache
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.AssemblyInfoInputs.cache
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.AssemblyInfo.cs
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.csproj.CoreCompileInputs.cache
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.dll
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/refint/homework4.dll
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.pdb
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/homework4.genruntimeconfig.cache
+/Users/elena/Desktop/MyseminarC#/homework/homework4/obj/Debug/net7.0/ref/homework4.dll
